@@ -37,21 +37,21 @@
 
 | **Project Name** | **Description** | **Stack** |
 |:---|:---|:---|
-| **Digital Twin-Enabled GAN** | Hybrid Digital Twin model for Li-ion Battery Health Prognostics (FYDP). | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white) |
-| **IoT & Embedded Systems** | Real-time monitoring and control system using microcontrollers. | ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-teal?logo=arduino&logoColor=white) |
-| **OOP2 Course Project** | Application demonstrating Object-Oriented principles in Python. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
-| **Web Development** | Custom website design and database management. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white) |
+| [**Digital-Twin-FYDP**](https://github.com/himadroShowrav/Digital-Twin-FYDP) | Hybrid Digital Twin model for Li-ion Battery Health Prognostics. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white) |
+| [**IoT-Embedded-System**](https://github.com/himadroShowrav/IoT-Embedded-System) | Real-time monitoring and control system using microcontrollers. | ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-teal?logo=arduino&logoColor=white) |
+| [**OOP2-Project**](https://github.com/himadroShowrav/OOP2-Project) | Application demonstrating Object-Oriented principles in Python. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
+| [**Web-Dev-Portfolio**](https://github.com/himadroShowrav/Web-Dev-Portfolio) | Custom website design and database management. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white) |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himadroShowrav&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=himadroShowrav&show_icons=true&theme=radical" alt="Showrav's Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himadroShowrav&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himadroShowrav&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </p>
 
 </div>
