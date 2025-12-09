@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [YOUR NAME] 👋
+# Hi there, I'm Showrav Das 👋
 
 ### 🎓 CSE Student & Researcher
 *Specializing in Digital Twins, IoT, and Predictive Maintenance*
