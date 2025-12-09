@@ -24,12 +24,23 @@
 
 ### 🛠️ Tech Stack & Research Tools
 
-| **Programming Languages** | **Web Development** | **Research & Data Science** |
+| **Programming Languages** | **Web & Databases** | **Research & Data Science** |
 |:---:|:---:|:---:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | **Databases** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
-| | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| | | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+
+---
+
+### 🏆 My Key Projects
+
+| **Project Name** | **Description** | **Stack** |
+|:---|:---|:---|
+| **Digital Twin-Enabled GAN** | Hybrid Digital Twin model for Li-ion Battery Health Prognostics (FYDP). | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white) |
+| **IoT & Embedded Systems** | Real-time monitoring and control system using microcontrollers. | ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-teal?logo=arduino&logoColor=white) |
+| **OOP2 Course Project** | Application demonstrating Object-Oriented principles in Python. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
+| **Web Development** | Custom website design and database management. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white) |
 
 ---
 
