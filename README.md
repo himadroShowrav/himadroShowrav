@@ -7,8 +7,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/](https://www.linkedin.com/in/showrav-das-a67a2522a/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:showravdasbd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/showrav-das-a67a2522a/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL@gmail.com)
 
 <br/>
 
