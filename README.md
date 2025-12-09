@@ -7,15 +7,15 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/](https://www.linkedin.com/in/showrav-das-a67a2522a/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:showravdasbd@gmail.com)
 
 <br/>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on a **Digital Twin ** for predictive maintainance.
+- 🔭 I’m currently working on a **Digital Twin-Enabled Physics-Constrained GAN** for battery prognostics.
 - 🎓 I’m a final year student at **Daffodil International University**.
 - 📝 I am writing a research paper on **Hybrid Digital Twin Models**.
 - 💡 I’m interested in **Embedded Systems, Machine Learning, and Web Development**.
@@ -33,14 +33,14 @@
 
 ---
 
-### 🏆 My Key Projects
+### 🏆 My Key Projects & Live Work
 
 | **Project Name** | **Description** | **Stack** |
 |:---|:---|:---|
+| [**ProptyFix.com**](https://proptyfix.com/) | Live professional property maintenance platform. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white) |
+| [**PrimeProperty**](https://primepropertymaintainers.com/) | Live service website for property maintainers. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
 | [**Digital-Twin-FYDP**](https://github.com/himadroShowrav/Digital-Twin-FYDP) | Hybrid Digital Twin model for Li-ion Battery Health Prognostics. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white) |
 | [**IoT-Embedded-System**](https://github.com/himadroShowrav/IoT-Embedded-System) | Real-time monitoring and control system using microcontrollers. | ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-teal?logo=arduino&logoColor=white) |
-| [**OOP2-Project**](https://github.com/himadroShowrav/OOP2-Project) | Application demonstrating Object-Oriented principles in Python. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
-| [**Web-Dev-Portfolio**](https://github.com/himadroShowrav/Web-Dev-Portfolio) | Custom website design and database management. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white) |
 
 ---
 
