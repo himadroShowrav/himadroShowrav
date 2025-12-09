@@ -39,7 +39,7 @@
 |:---|:---|:---|
 | [**ProptyFix.com**](https://proptyfix.com/) | Live professional property maintenance platform. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white) |
 | [**PrimeProperty**](https://primepropertymaintainers.com/) | Live service website for property maintainers. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-| [**IoT-Gas-Monitoring-System**](https://github.com/himadroShowrav/IoT-Gas-Monitoring-System) | Real-time gas detection system with automatic ventilation and mobile IoT alerts. | ![ESP32 C++ Blynk IoT](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white) |
+| [**IoT-Gas-Monitoring-System**](https://github.com/himadroShowrav/IoT-Gas-Monitoring-System) | Real-time gas detection system with automatic ventilation and mobile IoT alerts. | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white) ![Blynk](https://img.shields.io/badge/Blynk-2ECC71?logo=blynk&logoColor=white) |
 | [**IoT-Embedded-System**](https://github.com/himadroShowrav/IoT-Embedded-System) | Real-time monitoring and control system using microcontrollers. | ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-teal?logo=arduino&logoColor=white) |
 
 ---
