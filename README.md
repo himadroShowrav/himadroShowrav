@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on a **Digital Twin** for battery prognostics.
+- 🔭 I’m currently working on  **Digital Twin** domain.
 - 🎓 I’m a final year student at **Daffodil International University**.
 - 📝 I am writing a research paper on **Hybrid Digital Twin Models**.
 - 💡 I’m interested in **Embedded Systems, Machine Learning, and Web Development**.
