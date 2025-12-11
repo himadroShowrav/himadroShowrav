@@ -40,7 +40,7 @@
 | [**ProptyFix.com**](https://proptyfix.com/) | Live professional property maintenance platform. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white) |
 | [**PrimeProperty**](https://primepropertymaintainers.com/) | Live service website for property maintainers. | ![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
 | [**IoT-Gas-Monitoring-System**](https://github.com/himadroShowrav/IoT-Gas-Monitoring-System) | Real-time gas detection system with automatic ventilation. | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white) ![Blynk](https://img.shields.io/badge/Blynk-2ECC71?logo=blynk&logoColor=white) |
-| [**Connect Four AI**](https://github.com/ar-sayeem/connect_four_player_vs_AI) | Intelligent game AI with Minimax algorithm & Alpha-Beta pruning. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
+| [**Connect Four AI**](http://github.com/himadroShowrav/connect_four_player_vs_AI) | Intelligent game AI with Minimax algorithm & Alpha-Beta pruning. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
 
 
 ---
